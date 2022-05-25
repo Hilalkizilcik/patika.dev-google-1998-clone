@@ -1,0 +1,33 @@
+.img-g {
+  text-align: center;
+}
+.table-s {
+  margin: auto;
+  width: 90%;
+
+  text-align: center;
+  border: 0px;
+}
+#td-1 {
+  background-color: #eeeeee;
+  text-align: center;
+}
+#td-2 {
+  background-color: #7ee5da;
+  text-align: center;
+  width: 37%;
+}
+#td-3 {
+  font-size: 13px;
+  background-color: #70ccc2;
+  text-align: center;
+}
+#td-4 {
+  font-size: 13px;
+  background-color: #62b3aa;
+  text-align: center;
+}
+.copyright {
+  text-align: center;
+  font-size: 13px;
+}
